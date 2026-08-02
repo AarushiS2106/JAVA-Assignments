@@ -19,7 +19,7 @@ class Student {
 
     public static void main(String args[]) {
         Student s1 = new Student();
-        Student s2 = new Student(101, "Aarushi");
+        Student s2 = new Student(276, "Aarushi");
 
         s1.display();
         s2.display();
